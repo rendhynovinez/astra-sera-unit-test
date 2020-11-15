@@ -2,10 +2,10 @@
 
 Lumen
 - Docker;
-- Alpine; 
-- PHP FPM 7.1;
+
+- PHP 7.1;
 - SQL Server,MongoDB;
-- OCI8 driver for Oracle;
+
 
 
 
