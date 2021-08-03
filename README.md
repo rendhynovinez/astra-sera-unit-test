@@ -1,4 +1,4 @@
-# Lumen SERA PHP UNIT 
+# Lumen API Backend with PHP UNIT Testing
 
 Lumen
 - Docker;
